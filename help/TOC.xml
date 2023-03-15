@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+  
+  <tocitem text="Casino Roulette Application" target="introduction"/>
+  	
+  <tocitem text="Enter the application">
+  	<tocitem text="Register" target="register"/>
+  	<tocitem text="Sign in" target="signIn"/>
+  </tocitem>
+  <tocitem text="Get started" target="welcome"/>
+  <tocitem text="Shop of the application">
+  	<tocitem text="Shop functionalities" target="shop"/>
+  	<tocitem text="Add money" target="addBalance"/>
+  	<tocitem text="Buy chips" target="buyChips"/>
+  	<tocitem text="Exchange chips" target="exchangeChips"/>
+  	<tocitem text="Buy drinks" target="buyDrinks"/>
+  </tocitem>
+  <tocitem text="Play the game">
+  	<tocitem text="How to play" target="game"/>
+  	<tocitem text="Make a bet" target="makeBets"/>
+  	<tocitem text="Know your bets" target="yourBets"/>
+  	<tocitem text="Results of the game" target="gameResults"/>
+  	<tocitem text="Buy drinks" target="buyDrinks"/>
+  </tocitem>
+  <tocitem text="Log off" target="logOff"/>
+
+</toc>
